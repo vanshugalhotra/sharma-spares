@@ -10,8 +10,8 @@ import "react-toastify/dist/ReactToastify.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Om Tractors",
-  description: "Om Tractors Record",
+  title: "Sharma Spares",
+  description: "Vicky Sharma",
 };
 
 export default function RootLayout({ children }) {
