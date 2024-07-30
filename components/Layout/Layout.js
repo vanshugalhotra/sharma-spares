@@ -23,9 +23,9 @@ const Layout = ({ children }) => {
     setAuthenticated(false);
   };
 
-  if (!authenticated) {
-    return <LoginModal onLogin={handleLogin} />;
-  }
+  // if (!authenticated) {
+  //   return <LoginModal onLogin={handleLogin} />;
+  // }
 
   return (
     <div>
